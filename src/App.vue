@@ -1,4 +1,5 @@
 <script setup>
+import "animate.css";
 import { RouterView } from "vue-router";
 import NavBar from "./components/NavBar.vue";
 </script>

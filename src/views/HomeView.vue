@@ -1,9 +1,8 @@
 <script setup>
-import TheWelcome from "@/components/TheWelcome.vue";
+import BannerView from "../components/BannerView.vue"
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+<BannerView />
+  <h1>this is you home page</h1>
 </template>

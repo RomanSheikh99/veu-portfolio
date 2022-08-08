@@ -1,6 +1,7 @@
 <script setup>
+
 </script>
 
 <template>
-  <h1>Welcome To The home</h1>
+  <h1>You are in contact page</h1>
 </template>
