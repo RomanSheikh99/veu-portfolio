@@ -4,7 +4,7 @@ import SocialIcons from "./SocialIcons.vue";
 
 
 <template>
-  <div id="about" class="pt-10 w-4/5 flex justify-between items-center mx-auto">
+  <div id="about" class="pt-10 mt-20 w-4/5 flex justify-between items-center mx-auto">
     <div
       class="w-2/5 animate__animated animate__delay-2s animate__slower animate__infinite animate__swing"
     >
